@@ -1,6 +1,8 @@
 # Drag-Drop-
+v 0.0.1
 Integration in Momentrum
-Update soon (To-do / drag drop pet-project)
+Update soon
+(To-do / drag drop pet-project)
 
 A project in which you can drag and drop items into different columns. You can use it as a Miro-type task book or use it in online stores to drag and drop items
 
